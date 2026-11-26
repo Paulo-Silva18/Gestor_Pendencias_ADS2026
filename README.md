@@ -19,8 +19,6 @@ Aplicativo Android (Kotlin + Jetpack Compose) para organizar pendências diária
 |---|---|---|
 | ![login](docs/login.png) | ![painel](docs/painel.png) | ![form](docs/form.png) |
 
-_(salve os prints na pasta `docs/`)_
-
 ## Funcionalidades
 
 1. **Capacidade por contexto**: limite de pendências ativas (Pendente + Em Andamento) para *Estudos/Trabalho* (padrão 3), *Casa/Pessoal* (4) e *Urgências* (2). Editável no ícone de engrenagem do Painel.
