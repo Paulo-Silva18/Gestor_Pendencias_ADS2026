@@ -11,7 +11,7 @@ Aplicativo Android (Kotlin + Jetpack Compose) para organizar pendências diária
 | Entrega | Link |
 |---|---|
 | Protótipo no Figma | _COLE_AQUI_O_LINK_PUBLICO_ |
-| Vídeo demonstrativo | _COLE_AQUI_O_LINK_DO_YOUTUBE_NAO_LISTADO_ |
+| Vídeo demonstrativo | https://youtu.be/o5Kehb8TZm4 |
 
 ## Capturas de tela
 
